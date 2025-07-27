@@ -1,0 +1,28 @@
+# Core Dependencies
+openai>=1.0.0,<2.0.0
+google-generativeai>=0.3.0,<0.5.0
+pandas>=1.5.0,<2.3.0
+numpy>=1.21.0,<2.0.0
+
+# ML & NLP
+faiss-cpu>=1.7.4,<1.8.0
+tiktoken>=0.3.0,<0.7.0
+spacy>=3.5.0,<4.0.0
+scikit-learn>=1.2.0,<1.5.0
+scipy>=1.7.0,<2.0.0
+sentence-transformers>=2.2.0,<3.0.0
+PyYAML>=5.4,<7.0
+datamodel-code-generator>=0.20.0,<1.0.0
+
+# Document Parsing
+icalendar>=4.0,<5.0
+PyMuPDF>=1.20.0,<1.25.0
+PyPDF2>=3.0.0,<4.0.0
+beautifulsoup4>=4.11.0,<5.0.0
+python-docx>=0.8.11,<1.0.0
+
+# Utility
+tqdm>=4.64.0,<5.0.0
+protobuf>=3.21.0,<5.0.0
+langchain>=0.1.0,<0.2.0
+chromadb>=0.4.0,<0.5.0

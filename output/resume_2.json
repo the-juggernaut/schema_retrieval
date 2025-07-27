@@ -1,0 +1,366 @@
+{
+  "basics": {
+    "name": {
+      "value": "Abhay Jagannath",
+      "needs_review": false
+    },
+    "label": {
+      "value": "ML engineer",
+      "needs_review": false
+    },
+    "image": {
+      "value": null,
+      "needs_review": true
+    },
+    "email": {
+      "value": "jagannathabhay@gmail.com",
+      "needs_review": false
+    },
+    "phone": {
+      "value": "+91-8790500333",
+      "needs_review": false
+    },
+    "location": {
+      "address": {
+        "value": null,
+        "needs_review": true
+      },
+      "postalCode": {
+        "value": null,
+        "needs_review": true
+      },
+      "city": {
+        "value": null,
+        "needs_review": true
+      },
+      "countryCode": {
+        "value": "IN",
+        "needs_review": false
+      },
+      "region": {
+        "value": "Hyderabad, India",
+        "needs_review": false
+      }
+    },
+    "profiles": [
+      {
+        "network": {
+          "value": "Facebook",
+          "needs_review": false
+        },
+        "username": {
+          "value": "neutralthoughts",
+          "needs_review": false
+        },
+        "url": {
+          "value": "http://facebook.example.com/neutralthoughts",
+          "needs_review": false
+        }
+      }
+    ],
+    "url": {
+      "value": null,
+      "needs_review": true
+    },
+    "summary": {
+      "value": "ML engineer with a background in electronics, Experienced in building lightweight ML solutions Looking for opportunities entailing innovative research, hands-on prototyping and, optimized large-scale deployment",
+      "needs_review": false
+    }
+  },
+  "work": [
+    {
+      "name": {
+        "value": "DeepEdge AI",
+        "needs_review": false
+      },
+      "location": {
+        "value": "Hyderabad, India",
+        "needs_review": false
+      },
+      "description": {
+        "value": "Machine Learning Engineer",
+        "needs_review": false
+      },
+      "position": {
+        "value": "Developing backend microservices and infrastructure for the DeepEdge Platform SaaS strategies for 3D interlayer FPGA architectures and unified Embedded FPGA design-to-implementation frameworks",
+        "needs_review": false
+      },
+      "url": {
+        "value": null,
+        "needs_review": true
+      },
+      "startDate": {
+        "value": "05 2024",
+        "needs_review": false
+      },
+      "endDate": {
+        "value": "Present",
+        "needs_review": false
+      },
+      "summary": {
+        "value": "Developing backend microservices and infrastructure for the DeepEdge Platform SaaS REST API, the on boarding UX, and worked closely with integration with front-end using Figma",
+        "needs_review": false
+      },
+      "highlights": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": {
+        "value": "Citizens of Science",
+        "needs_review": false
+      },
+      "position": {
+        "value": "Volunteer",
+        "needs_review": false
+      },
+      "url": {
+        "value": null,
+        "needs_review": true
+      },
+      "startDate": {
+        "value": null,
+        "needs_review": true
+      },
+      "endDate": {
+        "value": null,
+        "needs_review": true
+      },
+      "summary": {
+        "value": null,
+        "needs_review": true
+      },
+      "highlights": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "education": [
+    {
+      "institution": {
+        "value": "Birla Institute of Technology and Sciences, Pilani, Hyderabad Campus",
+        "needs_review": false
+      },
+      "url": {
+        "value": null,
+        "needs_review": true
+      },
+      "area": {
+        "value": null,
+        "needs_review": true
+      },
+      "studyType": {
+        "value": "B",
+        "needs_review": false
+      },
+      "startDate": {
+        "value": "08 2019",
+        "needs_review": false
+      },
+      "endDate": {
+        "value": "08 2023",
+        "needs_review": false
+      },
+      "score": {
+        "value": null,
+        "needs_review": true
+      },
+      "courses": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "title": {
+        "value": null,
+        "needs_review": true
+      },
+      "date": {
+        "value": null,
+        "needs_review": true
+      },
+      "awarder": {
+        "value": null,
+        "needs_review": true
+      },
+      "summary": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "name": {
+        "value": null,
+        "needs_review": true
+      },
+      "date": {
+        "value": null,
+        "needs_review": true
+      },
+      "url": {
+        "value": null,
+        "needs_review": true
+      },
+      "issuer": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "publications": [
+    {
+      "name": {
+        "value": null,
+        "needs_review": true
+      },
+      "publisher": {
+        "value": null,
+        "needs_review": true
+      },
+      "releaseDate": {
+        "value": null,
+        "needs_review": true
+      },
+      "url": {
+        "value": null,
+        "needs_review": true
+      },
+      "summary": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": {
+        "value": "Machine Learning",
+        "needs_review": false
+      },
+      "level": {
+        "value": "Experienced",
+        "needs_review": false
+      },
+      "keywords": {
+        "value": [
+          "PyTorch",
+          "Tensorflow",
+          "FastAPI",
+          "MongoDB",
+          "AWS",
+          "Docker",
+          "Redis"
+        ],
+        "needs_review": false
+      }
+    }
+  ],
+  "projects": [
+    {
+      "name": {
+        "value": null,
+        "needs_review": true
+      },
+      "description": {
+        "value": null,
+        "needs_review": true
+      },
+      "highlights": {
+        "value": null,
+        "needs_review": true
+      },
+      "keywords": {
+        "value": null,
+        "needs_review": true
+      },
+      "startDate": {
+        "value": null,
+        "needs_review": true
+      },
+      "endDate": {
+        "value": "12 2021",
+        "needs_review": false
+      },
+      "url": {
+        "value": "http://www.computer.org/csdl/mags/co/1996/10/rx069-abs.html",
+        "needs_review": false
+      },
+      "roles": {
+        "value": [
+          "Developer"
+        ],
+        "needs_review": false
+      },
+      "entity": {
+        "value": "Deep-RL Based Overtaking for an Autonomous Vehicle",
+        "needs_review": false
+      },
+      "type": {
+        "value": "application",
+        "needs_review": false
+      }
+    }
+  ],
+  "meta": {
+    "canonical": {
+      "value": null,
+      "needs_review": true
+    },
+    "version": {
+      "value": null,
+      "needs_review": true
+    },
+    "lastModified": {
+      "value": null,
+      "needs_review": true
+    }
+  },
+  "$schema": {
+    "value": null,
+    "needs_review": true
+  },
+  "languages": [
+    {
+      "language": {
+        "value": "English, French, Hindi, Telugu",
+        "needs_review": false
+      },
+      "fluency": {
+        "value": "Fluent",
+        "needs_review": false
+      }
+    }
+  ],
+  "interests": [
+    {
+      "name": {
+        "value": null,
+        "needs_review": true
+      },
+      "keywords": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ],
+  "references": [
+    {
+      "name": {
+        "value": null,
+        "needs_review": true
+      },
+      "reference": {
+        "value": null,
+        "needs_review": true
+      }
+    }
+  ]
+}
